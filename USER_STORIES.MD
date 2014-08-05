@@ -1,3 +1,4 @@
 # User Types
 * sandboxer
+
 # Stories
